@@ -1,6 +1,6 @@
-Train Accuracy := 87.17%
-Validation accuracy := 60.94% , highest = 82.81%
-Test Accuracy := 64.29%
+1. Train Accuracy := 87.17%
+2. Validation accuracy := 60.94% , highest = 82.81%
+3. Test Accuracy := 64.29%
 
 
 MODEL STRUCTURE
