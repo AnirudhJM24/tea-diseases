@@ -3,7 +3,7 @@ No need to mount google drive if running on jupyter notebook
 
 
 MODEL STRUCTURE
-'''
+
 _________________________________________________________________
  Layer (type)                Output Shape              Param #   
 =================================================================
@@ -69,4 +69,3 @@ Trainable params: 135,368
 Non-trainable params: 480
 _________________________________________________________________
 
-'''
